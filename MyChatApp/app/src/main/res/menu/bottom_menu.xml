@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/i_cards"
+        android:enabled="true"
+        android:title="Contacts" />
+    <item
+        android:id="@+id/i_likes"
+        android:enabled="true"
+        android:title="Profile"/>
+    <item
+        android:id="@+id/i_chat"
+        android:enabled="true"
+        android:title="Logout"/>
+</menu>
